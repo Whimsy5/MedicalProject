@@ -1,15 +1,18 @@
-# React + Vite
+Medical Web Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+a. Description
 
-Currently, two official plugins are available:
+Hello, this project was created as a Medical website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+b. Frameworks used:
+The website is created using React components, TailwindCss and Vite frameworks.
 
-## React Compiler
+c. Functionality.
+he Navigation section is quite flexible with each click scrolling to the specific component. Contact Us button is clickable which redirects to the Booking form.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+
+
 
 ## Expanding the ESLint configuration
 
